@@ -6,26 +6,20 @@ namespace C_Aula_2_Condicionais
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("=============================================");
-            Console.WriteLine("Bem vindo a seletiva para o time de Valorant");
-            Console.WriteLine("=============================================");
-            Console.WriteLine("Você gostaria de participar ?? (Sim ou Não)");
-            string resposta = Console.ReadLine();
-                if(resposta == "Sim"){
-                    Console.WriteLine("Que legal! Agora vamos analisar seu curriculo.");
-                    Console.WriteLine("Insira sua media escolar");
-                    int media = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Digite a quantidade de faltas:");
-                    int faltas = int.Parse(Console.ReadLine());
-                    if(media >=50 && faltas <= 10) {
-                        Console.WriteLine("Parabens seja bem vindo =D");
+            Console.WriteLine("Escreva sua idade: ");
+            int idade = int.Parse(Console.ReadLine());
 
-                    }else{
-                        Console.WriteLine("Que Pena, você precisa melhorar suas notas e faltas");
-                    }
-                }else{
-                    Console.WriteLine("Blz, passar bem");
-                }
+            int meses = (idade * 12);
+            int dias = (idade * 365);
+            int horas = (idade * 8760);
+            int minutos = (idade * 525600);
+            int nascimento = (2020 - idade);
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Você nasceu em " + nascimento);
+            Console.WriteLine("Isso é igual a: " + meses + " meses");
+            Console.WriteLine("Isso é igual a: " + dias + " dias");
+            Console.WriteLine("Isso é igual a: " + horas + " horas");
+            Console.WriteLine("Isso é igual a: " + minutos + " minutos");
         }
     }
 }
