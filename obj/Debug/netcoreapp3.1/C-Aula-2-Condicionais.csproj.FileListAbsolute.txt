@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\bin\Debug\netcoreapp3.1\C-Aula-2-Condicionais.exe
+C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\bin\Debug\netcoreapp3.1\C-Aula-2-Condicionais.deps.json
+C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\bin\Debug\netcoreapp3.1\C-Aula-2-Condicionais.runtimeconfig.json
+C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\bin\Debug\netcoreapp3.1\C-Aula-2-Condicionais.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\bin\Debug\netcoreapp3.1\C-Aula-2-Condicionais.dll
+C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\bin\Debug\netcoreapp3.1\C-Aula-2-Condicionais.pdb
+C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.AssemblyInfo.cs
+C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.dll
+C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.pdb
+C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.genruntimeconfig.cache
