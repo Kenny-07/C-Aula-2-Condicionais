@@ -6,18 +6,17 @@ namespace C_Aula_2_Condicionais
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Escreva seu ano de nascimento: ");
-            int ano1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Escreva seu salário: ");
+            double salario = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Escreva o ano atual: ");
-            int ano2 = int.Parse(Console.ReadLine());
-
-            int idade = (ano2 - ano1);
-            int semanas = (idade * 52);
+            double reajuste = ((salario * 0.3) + salario);
             
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Você tem " + idade + " anos de idade");
-            Console.WriteLine("Isso é igual a " + semanas + " semanas");
+            if (salario >= 500){
+                Console.WriteLine("Você não pode receber o aumento");
+            }
+            else{
+                Console.WriteLine("Seu novo salário é de " + reajuste);
+            }
         }
     }
 }
