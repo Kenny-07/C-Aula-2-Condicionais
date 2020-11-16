@@ -11,3 +11,16 @@ C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.
 C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.dll
 C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.pdb
 C:\Users\dev\Desktop\Atividade Alan\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.genruntimeconfig.cache
+C:\Users\Alan\Desktop\C# Aula 1\C-Aula-2-Condicionais\bin\Debug\netcoreapp3.1\C-Aula-2-Condicionais.exe
+C:\Users\Alan\Desktop\C# Aula 1\C-Aula-2-Condicionais\bin\Debug\netcoreapp3.1\C-Aula-2-Condicionais.deps.json
+C:\Users\Alan\Desktop\C# Aula 1\C-Aula-2-Condicionais\bin\Debug\netcoreapp3.1\C-Aula-2-Condicionais.runtimeconfig.json
+C:\Users\Alan\Desktop\C# Aula 1\C-Aula-2-Condicionais\bin\Debug\netcoreapp3.1\C-Aula-2-Condicionais.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\C# Aula 1\C-Aula-2-Condicionais\bin\Debug\netcoreapp3.1\C-Aula-2-Condicionais.dll
+C:\Users\Alan\Desktop\C# Aula 1\C-Aula-2-Condicionais\bin\Debug\netcoreapp3.1\C-Aula-2-Condicionais.pdb
+C:\Users\Alan\Desktop\C# Aula 1\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\C# Aula 1\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.AssemblyInfo.cs
+C:\Users\Alan\Desktop\C# Aula 1\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.dll
+C:\Users\Alan\Desktop\C# Aula 1\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.pdb
+C:\Users\Alan\Desktop\C# Aula 1\C-Aula-2-Condicionais\obj\Debug\netcoreapp3.1\C-Aula-2-Condicionais.genruntimeconfig.cache
